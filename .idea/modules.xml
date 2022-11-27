@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coopaycustomer-master.iml" filepath="$PROJECT_DIR$/.idea/modules/coopaycustomer-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/coopaycustomer-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/coopaycustomer-master.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/coopaycustomer-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/coopaycustomer-master.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/coopaycustomer-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/coopaycustomer-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coopay-customer-app.iml" filepath="$PROJECT_DIR$/.idea/modules/coopay-customer-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/coopay-customer-app.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/coopay-customer-app.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/coopay-customer-app.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/coopay-customer-app.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/coopay-customer-app.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/coopay-customer-app.app.unitTest.iml" />
     </modules>
   </component>
 </project>
