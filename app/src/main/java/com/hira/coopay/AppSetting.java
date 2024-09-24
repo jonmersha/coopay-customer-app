@@ -98,7 +98,6 @@ public class AppSetting{
                     String USSDpin=ast+841+ast+old.getText().toString()+ast+7+ast+1+ast+pin1.getText().toString()+ast+pin2.getText().toString();
                     act.sendUSSD(USSDpin);
                     opendialog.dismiss();
-
                 }
                 else{
 
